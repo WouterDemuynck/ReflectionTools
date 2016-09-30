@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ReflectionTools</id>
+    <version>0.1.0</version>
+    <title>ReflectionTools</title>
+    <authors>Wouter Demuynck</authors>
+    <description>ReflectionTools is a set of helpers for working with .NET reflection.</description>
+    <language>en-US</language>
+    <projectUrl>https://github.com/WouterDemuynck/ReflectionTools</projectUrl>
+    <iconUrl>https://raw.github.com/WouterDemuynck/ReflectionTools/master/res/logo.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/WouterDemuynck/ReflectionTools/master/LICENSE.md</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <references>
+      <reference file="ReflectionTools.dll" />
+    </references>
+    <tags>reflection assemblies assembly </tags>
+  </metadata>
+  <files>
+    <file src="ReflectionTools.dll" target="lib\net45\ReflectionTools.dll" />
+    <file src="ReflectionTools.xml" target="lib\net45\ReflectionTools.xml" />
+  </files>
+</package>
