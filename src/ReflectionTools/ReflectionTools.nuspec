@@ -5,11 +5,11 @@
     <version>0.1.0</version>
     <title>ReflectionTools</title>
     <authors>Wouter Demuynck</authors>
-    <description>ReflectionTools is a set of helpers for working with .NET reflection.</description>
+    <description>ReflectionTools is a set of utilities for working with .NET reflection.</description>
     <language>en-US</language>
     <projectUrl>https://github.com/WouterDemuynck/ReflectionTools</projectUrl>
     <iconUrl>https://raw.github.com/WouterDemuynck/ReflectionTools/master/res/logo.png</iconUrl>
-    <licenseUrl>https://raw.githubusercontent.com/WouterDemuynck/ReflectionTools/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/WouterDemuynck/ReflectionTools/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <references>
       <reference file="ReflectionTools.dll" />
